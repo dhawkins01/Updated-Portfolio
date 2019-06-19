@@ -39,3 +39,11 @@ footer {
     padding: 0;
     
 }
+
+.card {
+    margin: 30px auto;
+}
+
+.card-header {
+    background-color: #031434;
+}
