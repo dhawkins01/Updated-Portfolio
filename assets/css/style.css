@@ -1,0 +1,18 @@
+body {
+    background-color: #031434;
+}
+/* Navigation styles */
+nav {
+    background-color: #30415d;
+
+}
+
+nav h1 {
+    color: white;
+}
+
+
+.navLink {
+    color: white;
+}
+
