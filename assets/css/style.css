@@ -7,12 +7,35 @@ nav {
 
 }
 
-nav h1 {
+p, h1 {
     color: white;
 }
-
+p {
+    font-size: 20px;
+}
 
 .navLink {
     color: white;
 }
 
+/* main content */
+.main {
+    background-color: #30415d;
+    margin: 30px auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    margin: 20px 0 0 0;
+   
+}
+
+.card-body {
+    background-color: #30415d;
+    color: white;
+    padding: 0;
+    
+}
